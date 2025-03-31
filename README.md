@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bella!
+  - I’m currently learning about Multivariate Anaylisis, Data Structures & Algorithms, and doing a deep dive into Gradient Descent for my capstone project.
+  - Pronouns: she/her/hers
+  - Fun fact: I became a Mathematics major halfway through my undergrad!
