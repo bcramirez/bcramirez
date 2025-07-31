@@ -3,4 +3,4 @@
   - I recently graduated from college with a B.S. in Mathematics, with a specialization in Data Science and Statistics.
   - Pronouns: she/her/hers.
   - Fun fact: I became a Mathematics major halfway through my undergrad and completed my degree in only two years.
-  - Currently working on: Prepping for Microsoft PL-300 Exam and building portfolio.
+  - Currently: Building projects outside of my comfort zone!
