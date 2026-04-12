@@ -5,7 +5,11 @@ data science & statistics.
 she/her · first gen colombian-american
 
 started my math major junior year and finished in two years. 
-building projects in the meantime.
+building a data portfolio through projects I care about
+
+## skills
+Python · Pandas · SQL · Plotly · Folium · Exploratory Data Analysis · 
+Data Visualization · Microsoft Excel
 
 ---
 
