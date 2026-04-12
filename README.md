@@ -1,6 +1,19 @@
-- 👋 Hi, I’m Bella!
-  - First generation Colombian-American.
-  - I recently graduated from college with a B.S. in Mathematics, with a specialization in Data Science and Statistics.
-  - Pronouns: she/her/hers.
-  - Fun fact: I became a Mathematics major halfway through my undergrad and completed my degree in only two years.
-  - Currently: Building projects outside of my comfort zone!
+# bella ramirez
+
+data analyst based in new jersey. b.s. in mathematics, 
+data science & statistics.
+
+started my math major junior year and finished in two years. 
+building projects in the meantime.
+
+---
+
+## projects
+| project | description | tools |
+|---|---|---|
+| [southern resident orca analysis](https://github.com/bcramirez/southern-resident-orca-analysis) | EDA on endangered orca encounter patterns 2017–2024 | python, plotly, folium |
+| [nyc citi bike analysis](https://github.com/bcramirez/NYC-citi-bike-trips-analysis) | EDA on bike share usage patterns | python, folium |
+
+---
+
+she/her · first gen colombian-american
