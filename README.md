@@ -16,7 +16,7 @@ Data Visualization · Microsoft Excel
 ## projects
 | project | description | tools |
 |---|---|---|
-| [bank customer churn analysis](https://github.com/bcramirez/bank-customer-churn-analysis) | ML project predicting which customers are likely to close their accounrs | python, linear regression, random forest, Tableau |
+| [bank customer churn analysis](https://github.com/bcramirez/bank-customer-churn-analysis) | ML project predicting which customers are most likely to close their bank accounts | python, linear regression, random forest, Tableau |
 | [southern resident orca analysis](https://github.com/bcramirez/southern-resident-orca-analysis) | EDA on endangered orca encounter patterns 2017–2024 | python, plotly, folium |
 | [nyc citi bike analysis](https://github.com/bcramirez/NYC-citi-bike-trips-analysis) | EDA on bike share usage patterns | python, folium |
 
