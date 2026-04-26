@@ -8,8 +8,7 @@ started my math major junior year and finished in two years.
 building a data portfolio through projects I care about
 
 ## skills
-Python · Pandas · SQL · Tableau · Plotly · Folium · Exploratory Data Analysis · Machine Learning · 
-Data Visualization · Microsoft Excel
+Python (Numpy, Pandas, Scikit-Learn, Plotly, Folium) · SQL · Tableau · Snowflake · Machine Learning · Data Visualizations · Microsoft Excel
 
 ---
 
